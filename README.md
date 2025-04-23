@@ -2,7 +2,9 @@
 
 
 project/
+
 │
+
 ├── views/           # EJS templates
 ├── public/          # Static assets (CSS/JS)
 ├── data.json        # Simulated database
